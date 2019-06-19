@@ -4,7 +4,7 @@
 It's an example type project which demonstrate stopwatch. Feel free to use it anywhere. 
 ## Demo
 
-![Gif file](https://drive.google.com/open?id=1-0MlUkeT3Xcc-zrz_NvkRo1eqth0zeDE "Title")
+![Gif file](https://github.com/shahzadafridi/StopWatchTest/blob/master/20190619_163412.gif?raw=true "Title")
 
 ## Contact
 
