@@ -11,5 +11,4 @@ It's an example type project which demonstrate stopwatch. Feel free to use it an
  - Email:     shahzadahmadafridi@gmail.com 
  - StackOverFlow: https://stackoverflow.com/users/6672577/opriday 
  - LinkedIn: https://www.linkedin.com/in/imshahzadafridi
- - Project Link: https://github.com/shahzadafridi/HomeRemedies
 
